@@ -2,7 +2,7 @@
 <html>
 	
 	<head>
-		<title>Hello</title>
+		<title>Pacific Travels</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -86,8 +86,8 @@
 			
 				<?php
 					$servername = "localhost";
-					$username = "database_name";
-					$password = "password";
+					$username = "root";
+					$password = "poao9315";
 					$dbname = "demo";
 
 					$conn = new mysqli($servername, $username, $password, $dbname);
